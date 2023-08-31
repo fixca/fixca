@@ -1,5 +1,4 @@
-Suck at design | 디자인 못합니다   
-DKU 23' | 단국대 23학번 입니다   
+Suck at design | 디자인 못합니다    
 I don't like decorating my GitHub profile | 깃헙 페이지 꾸미는거 별로 안 좋아 합니다
 
 ## Language | 언어
